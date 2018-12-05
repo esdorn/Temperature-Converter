@@ -3,6 +3,6 @@
     <string name="display_Start">0</string>
     <string name="convertButton">Convert</string>
     <string name="switchTitle">Type</string>
-    <string name="TempStart">Fahrenheit</string>
+    <string name="TempStart">Fahrenheit > Celsius</string>
     <string name="enterHint">Enter Temperature</string>
 </resources>
