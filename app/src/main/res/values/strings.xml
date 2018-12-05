@@ -5,4 +5,5 @@
     <string name="switchTitle">Type</string>
     <string name="TempStart">Fahrenheit > Celsius</string>
     <string name="enterHint">Enter Temperature</string>
+    <string name="swapButton">Swap</string>
 </resources>
