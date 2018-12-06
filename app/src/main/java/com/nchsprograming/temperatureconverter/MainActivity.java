@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void calculateTemperature(View view) {
-        
+
 
     }
 }
