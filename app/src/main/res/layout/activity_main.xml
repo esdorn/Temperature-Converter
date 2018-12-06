@@ -87,6 +87,7 @@
         android:layout_marginEnd="32dp"
         android:layout_marginRight="32dp"
         android:background="#24F1DB"
+        android:onClick="Swap"
         android:text="@string/swapButton"
         android:textColor="#0D6802"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView2"
